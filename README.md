@@ -1,3 +1,4 @@
+## Laravel 9 e PHP 8.1.10
 ## Instanciar aplicação:
 
 - Configurar .env com os dados do banco de dados, nome da aplicação e dados do e-mail, muito necessário para enviar a rotina diaria de emails.
